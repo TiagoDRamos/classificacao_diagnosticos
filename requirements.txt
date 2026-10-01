@@ -1,0 +1,4 @@
+matplotlib
+gspread
+openpyxl
+requests
